@@ -81,7 +81,7 @@ No **xeque-mate**, o rei derrotado treme em câmera lenta, vira pó e é levado 
 - Desfazer lance (`Ctrl + Z`)
 - Replay da partida inteira ou só das mortes
 - Salvamento automático
-- Versão para celular com menu recolhível
+- Versão para celular: barra de ações embaixo, peças capturadas no topo, painéis que não cobrem o tabuleiro (em pé ou deitado)
 
 </td>
 </tr>
