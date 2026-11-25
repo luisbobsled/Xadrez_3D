@@ -47,6 +47,7 @@ No **xeque-mate**, o rei derrotado treme em câmera lenta, vira pó e é levado 
 
 **🎮 Modos de jogo**
 - 2 jogadores no mesmo computador
+- **Online com um amigo**: crie uma sala e mande o link ou o código
 - Contra o computador (fácil, médio e difícil)
 - IA contra IA, com nível separado para cada lado
 - **Modo Hacker** (botão H): mostra a melhor jogada e prevê a resposta do adversário
@@ -97,6 +98,8 @@ O gerador de lances foi validado com **perft**, o teste usado pelos motores de x
 1. Abra o **[link do jogo](https://luisbobsled.github.io/Xadrez_3D/)**. Não precisa instalar nada.
 2. Clique numa peça para ver os lances possíveis e depois na casa de destino.
 3. Arraste para girar a câmera e use a roda do mouse para dar zoom.
+
+**Jogar online:** em **Modo**, escolha **Online (amigo)** e clique em **Criar sala**. Copie o link do convite e mande para o seu amigo. Quando ele abrir o link, a partida começa: quem criou a sala joga de Brancas. Na revanche, as cores trocam. A conexão é direta entre os dois navegadores (WebRTC via PeerJS), sem servidor próprio.
 
 Também dá para baixar o `index.html` e abrir direto no navegador.
 
